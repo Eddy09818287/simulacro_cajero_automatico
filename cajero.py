@@ -25,4 +25,4 @@ while (i<num_ope):
         else:
                print("digite un valor correcto")
  
-        i+=1
+        i+=1     
